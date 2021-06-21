@@ -21,7 +21,7 @@ localhost:-portnum-/-some file name .filetype (must be existed)-
 telnet localhost -portnum-
 ```
   
-Note that this code only response to `GET` request, so you have to use `GET` request for a response.
+Note that this code only responses to `GET` request, so you have to use `GET` request for a response.
   
 ```
 GET -existed file name .filetype- HTTP/1.1 \r\n
