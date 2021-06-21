@@ -4,7 +4,7 @@ A very simple HTTP request/response web server project written in C.
 it's my first time trying system programming in c so feel free to point mistakes on my code. 
 
 to compile the code:
-gcc server.c -o server
+gcc server.c -o server <br>
 ./server -portnum- (as pointed in usage)
   
   then open your web browser:
