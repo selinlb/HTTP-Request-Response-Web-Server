@@ -11,18 +11,18 @@ gcc server.c -o server
 ./server -portnum- (as pointed in usage)
 ```
   
-  **then open your web browser:**
-  ``
-  localhost:-portnum-/-some file name .filetype (must be existed)-
-  ``
+**then open your web browser:**
+```
+localhost:-portnum-/-some file name .filetype (must be existed)-
+```
   
-  **or you can simply just use telnet:**
-  ``
-  telnet localhost -portnum-
-  ``
+**or you can simply just use telnet:**
+```
+telnet localhost -portnum-
+```
   
-  note that this code only response to GET request, so you have to use GET request for a response.
+note that this code only response to `GET` request, so you have to use GET request for a response.
   
-  ``
-  GET -existed file name .filetype- HTTP/1.1 \r\n
-  ``
+```
+GET -existed file name .filetype- HTTP/1.1 \r\n
+```
