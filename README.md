@@ -24,5 +24,5 @@ gcc server.c -o server
   note that this code only response to GET request, so you have to use GET request for a response.
   
   ``
-  GET -existed file name .filetype- HTTP/1.1\r\n
+  GET -existed file name .filetype- HTTP/1.1 \r\n
   ``
