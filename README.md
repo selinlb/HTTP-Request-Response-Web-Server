@@ -1,7 +1,7 @@
 # HTTP-Request-Response-Web-Server
 A very simple HTTP request/response web server project written in C.
 
-It's my first time trying system programming in C, so feel free to point mistakes on my code. 
+It's my first time trying system programming in C, so feel free to point out mistakes on my code. 
 
 ## How to use
 
