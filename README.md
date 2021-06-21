@@ -5,7 +5,7 @@ it's my first time trying system programming in c so feel free to point mistakes
 
 to compile the code:
 gcc server.c -o server
-./server <portnum> (as pointed in usage)
+./server<portnum> (as pointed in usage)
   
   then open your web browser:
   localhost:<portnum>/<some file name(must be existed)>
