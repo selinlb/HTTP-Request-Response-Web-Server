@@ -13,7 +13,7 @@ gcc server.c -o server
   
   **then open your web browser:**
   ``
-  localhost:-portnum-/-some file name(must be existed)-
+  localhost:-portnum-/-some file name .filetype (must be existed)-
   ``
   
   **or you can simply just use telnet:**
