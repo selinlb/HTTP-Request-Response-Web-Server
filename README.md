@@ -3,7 +3,7 @@ A very simple HTTP request/response web server project written in C.
 
 it's my first time trying system programming in c so feel free to point mistakes on my code. 
 
-##how to use
+## how to use
 
 **to compile the code:**
 '''
